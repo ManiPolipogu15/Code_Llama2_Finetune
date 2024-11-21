@@ -1,12 +1,3 @@
----
-language:
-- en
-library_name: transformers
-tags:
-- code
-metrics:
-- character
----
 
 # Model Card for Model ID
 
